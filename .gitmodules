@@ -5,3 +5,6 @@
 [submodule "DSAIDE"]
 	path = DSAIDE
 	url = https://github.com/andreashandel/dsaide
+[submodule "DSAIRM"]
+	path = DSAIRM
+	url = https://github.com/cran/DSAIRM
